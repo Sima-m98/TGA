@@ -1,1 +1,7 @@
-{"EURUSD": "none"}
+{
+ "h1": {
+  "EURUSD": "none"
+ },
+ "trades": {},
+ "last_sig": {}
+}
