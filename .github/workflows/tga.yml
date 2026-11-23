@@ -1,8 +1,8 @@
-name: TGA 1H alerts
+name: TGA alerts (1H golden + 15m setups)
 
 on:
   schedule:
-    - cron: "3 * * * *"   # every hour at minute 3 (UTC)
+    - cron: "*/5 * * * 1-5"   # every 5 minutes, Monday to Friday (UTC)
   workflow_dispatch:       # lets you run it manually from the Actions tab
 
 permissions:
