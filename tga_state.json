@@ -1,6 +1,7 @@
 {
  "h1": {
-  "EURUSD": "none"
+  "EURUSD": "none",
+  "WTI": "bear"
  },
  "trades": {},
  "last_sig": {}
